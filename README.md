@@ -5,6 +5,8 @@ https://github.com/exc-analyzer/exc
 
 # 🌿 DayZen (Good First Issue)
 
+For new users 
+
 ## 📌 Purpose
 To create an online platform that helps users organize and optimize their daily lives by efficiently tracking their daily routines.
 
